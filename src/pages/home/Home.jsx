@@ -3,6 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <>
+    {/* section one */}
     <div className='food h-screen flex flex-col text-center text-white gap-5'>
         <div className='text-7xl font-extrabold text-white pt-5'>Wonderful Loaf</div>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis delectus esse, id error cum adipisci, corrupti rem commodi aliquam libero voluptate sapiente deserunt. Cupiditate nemo minima quia, in quaerat at!
@@ -10,7 +11,7 @@ const Home = () => {
         Sint ex exercitationem eveniet hic culpa. Facere pariatur architecto quae alias quasi quisquam? Doloremque, nihil excepturi. Consequatur officia iure commodi, accusamus fugit temporibus atque veritatis repellat, repellendus repudiandae necessitatibus. Amet.
     </div>
 
-
+{/* section two */}
     <div className='bg-yellow-600 text-white'>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum quod temporibus quaerat ullam expedita provident? Dolore debitis eum beatae incidunt voluptate quae eaque repellendus, nesciunt culpa sed alias accusantium recusandae!
         Aut harum id voluptas accusantium? Vel dignissimos sunt eligendi minima. Quo non molestiae id consequatur, recusandae facilis saepe, in omnis commodi veniam deleniti eaque reprehenderit neque molestias aut suscipit possimus.
@@ -32,6 +33,27 @@ const Home = () => {
         Vel modi, porro quidem ab mollitia aperiam, quisquam optio pariatur rem facilis, eaque ipsa tempora distinctio dolores aspernatur velit recusandae esse! Est voluptatem dolorum dolore adipisci error? Quibusdam, error recusandae.
         Quibusdam et tempore adipisci excepturi aperiam dolorum ullam voluptas, iusto atque, nesciunt tenetur! Nam, fuga. Praesentium impedit rerum nulla eum ipsa ratione consequatur quaerat nesciunt consequuntur natus, voluptates soluta illo?
         Deleniti doloremque illo, vero dolorem corrupti suscipit magni unde tempore quia ratione laboriosam animi! Voluptatibus nulla facere ratione sit aut? Accusantium ratione impedit voluptas odio quisquam nostrum dolor minus itaque!
+
+{/* section three */}
+        <div className="bread h-screen">
+
+
+        </div>
+
+
+        {/* section four */}
+        <div className="brown h-screen">
+
+
+        </div>
+
+
+
+        {/* section five */}
+        <div className="delivery h-screen">
+
+
+        </div>
     </div>
     </>
     

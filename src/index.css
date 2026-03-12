@@ -3,3 +3,22 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+.bread{
+    background-image: url(../src/assets/breadmade.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.brown{
+    background-image: url(../src/assets/brown.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.delivery{
+    background-image: url(../src/assets/delivery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
