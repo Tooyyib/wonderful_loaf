@@ -3,8 +3,11 @@ import React from 'react'
 const Home = () => {
   return (
     <>
-    <div className='food h-screen flex justify-center'>
-        <div className=' text-4xl font-extrabold text-white'>wonderful Loaf</div>
+    <div className='food h-screen flex flex-col text-center text-white gap-5'>
+        <div className='text-7xl font-extrabold text-white pt-5'>Wonderful Loaf</div>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis delectus esse, id error cum adipisci, corrupti rem commodi aliquam libero voluptate sapiente deserunt. Cupiditate nemo minima quia, in quaerat at!
+        Iste expedita cupiditate excepturi, modi commodi impedit architecto! Sed, ducimus eveniet vel nesciunt earum quo minus molestias, repellat velit consequatur voluptatibus praesentium reiciendis. Eaque eius minus architecto quasi sunt quisquam!
+        Sint ex exercitationem eveniet hic culpa. Facere pariatur architecto quae alias quasi quisquam? Doloremque, nihil excepturi. Consequatur officia iure commodi, accusamus fugit temporibus atque veritatis repellat, repellendus repudiandae necessitatibus. Amet.
     </div>
 
 
